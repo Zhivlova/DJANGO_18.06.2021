@@ -1,0 +1,44 @@
+[{
+  "category": "Модерн",
+  "name": "Белое кресло",
+  "image": "product_images/product-21.jpg",
+  "short_desc": "Уникальный дизайн",
+  "description": "",
+  "price": "14500.00",
+  "quantity": 20,
+  "created": "2021-07-13T21:47:54.609",
+  "updated": "2021-07-13T21:47:54.609"
+},
+{
+  "category": "Офис",
+  "name": "Компьютерное кресло",
+  "image": "product_images/product1.jpg",
+  "short_desc": "",
+  "description": "",
+  "price": "9500.00",
+  "quantity": 20,
+  "created": "2021-07-13T21:47:54.609",
+  "updated": "2021-07-13T21:47:54.609"
+},
+{
+  "category": "Дом",
+  "name": "Кухонный стул",
+  "image": "product_images/green.jpg",
+  "short_desc": "",
+  "description": "",
+  "price": "3000.00",
+  "quantity": 20,
+  "created": "2021-07-13T21:47:54.609",
+  "updated": "2021-07-13T21:47:54.609"
+},
+{
+  "category": "Дом",
+  "name": "Розовое кресло",
+  "image": "product_images/pink.jpg",
+  "short_desc": "",
+  "description": "",
+  "price": "5500.00",
+  "quantity": 20,
+  "created": "2021-07-13T21:47:54.609",
+  "updated": "2021-07-13T21:47:54.609"
+}]
